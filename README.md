@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes Blinkit grocery sales data to find which products, outlets and locations bring in the most sales.
 
-![Blinkit Dashboard](dashboard.png)
+![Blinkit Dashboard](Blinkit_Dashboard.png)
 
 ## About the Project
 
